@@ -4,23 +4,20 @@ Welcome to my galaxy-inspired portfolio**—a futuristic, interactive, and immer
 
 ✨ Features  
 
-- 🌍 Interactive 3D Model** – A space-themed galaxy model created with **Spline**  
-- 💫 Hover Effects** – Smooth and engaging animations for an enhanced user experience  
-- 🎨 Modern UI/UX** – Designed with **React, Tailwind CSS, and GSAP** for seamless interactivity  
-- 📱 Fully Responsive** – Optimized for all devices (desktop, tablet, and mobile)  
-- 🛸 Dynamic Animations** – Smooth transitions and effects for a futuristic feel  
-- 🔭 Showcasing My Work** – Highlights my projects, skills, and contact details  
+- 🌍 Interactive 3D Model – A space-themed galaxy model created with **Spline**  
+- 💫 Hover Effects – Smooth and engaging animations for an enhanced user experience  
+- 🎨 Modern UI/UX – Designed with **React, Tailwind CSS, and GSAP** for seamless interactivity  
+- 📱 Fully Responsive – Optimized for all devices (desktop, tablet, and mobile)  
+- 🛸 Dynamic Animations – Smooth transitions and effects for a futuristic feel  
+- 🔭 Showcasing My Work – Highlights my projects, skills, and contact details  
 
 🚧 Technologies Used  
 
-- Frontend**: React, Tailwind CSS, GSAP  
-- 3D Modeling**: Spline  
-- Animation & Interactivity**: Framer Motion, GSAP  
-- Deployment**: Vercel / Netlify  
+- Frontend: Html, Css, Javascript 
+- 3D Modeling: Spline  
+- Deployment: Hostinger  
 
 📸 Screenshots  
-
-*(Add screenshots of your portfolio here to give viewers a glimpse of the design!)*  
 
 🚀 Getting Started  
 
@@ -45,4 +42,4 @@ Then, open **http://localhost:3000** in your browser!
 Want to collaborate or connect? Reach out to me:  
   
 🔗 Portfolio: https://hukmaan.tech
-💼 LinkedIn: 
+💼 LinkedIn:  https://www.linkedin.com/in/mohammedhukmaan
