@@ -22,22 +22,6 @@ Welcome to my galaxy-inspired portfolio**—a futuristic, interactive, and immer
 🚀 Getting Started  
 
 ![image_2025-03-20_190557861](https://github.com/user-attachments/assets/58afc188-afee-4086-acdf-7ed38fe92972)
-🔹 Clone the Repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-```
-🔹 Install Dependencies  
-```bash
-cd your-repo-name
-npm install
-```
-🔹 Run the Project  
-```bash
-npm run dev
-```
-Then, open **http://localhost:3000** in your browser!  
-
-📬 Contact  
 
 Want to collaborate or connect? Reach out to me:  
   
